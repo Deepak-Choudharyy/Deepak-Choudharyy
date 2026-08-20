@@ -122,4 +122,3 @@
 <p align="center">
   <i>"Coding is not just about writing lines of code; it is about solving real-world problems and creating experiences that matter."</i>
 </p>
-![Uploading banner.jpg…]()
