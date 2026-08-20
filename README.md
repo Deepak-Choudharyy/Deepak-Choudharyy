@@ -84,16 +84,16 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=Deepak-Choudharyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00e5ff&icon_color=bd93f9&text_color=e2e8f0" alt="Deepak's GitHub Stats" height="180px" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Deepak-Choudharyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00e5ff&icon_color=bd93f9&text_color=e2e8f0" alt="Deepak's GitHub Stats" height="180px" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-Choudharyy&theme=tokyonight&hide_border=true&background=0f172a&ring=00e5ff&fire=bd93f9&currStreakNum=00e5ff&sideNums=e2e8f0&sideLabels=e2e8f0&dates=a0aec0&currStreakLabel=00e5ff" alt="Deepak's Streak Stats" height="180px" />
+        <img src="https://streak-stats.demolab.com/?user=Deepak-Choudharyy&theme=tokyonight&hide_border=true&background=0f172a&ring=00e5ff&fire=bd93f9&currStreakNum=00e5ff&sideNums=e2e8f0&sideLabels=e2e8f0&dates=a0aec0&currStreakLabel=00e5ff" alt="Deepak's Streak Stats" height="180px" />
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle" colspan="2">
         <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Choudharyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00e5ff&icon_color=bd93f9&text_color=e2e8f0" alt="Deepak's Top Languages" height="160px" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepak-Choudharyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00e5ff&icon_color=bd93f9&text_color=e2e8f0" alt="Deepak's Top Languages" height="160px" />
       </td>
     </tr>
   </table>
