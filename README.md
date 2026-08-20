@@ -6,7 +6,7 @@
 <!-- Typing Intro Status -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Deepak+Choudhary+%F0%9F%91%8B;Android+%26+Mobile+App+Developer;Passionate+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Deepak+Choudhary+%F0%9F%91%8B;Android+%26+Mobile+App+Developer;Passionate+Software+Engineer;Turning+Logic+into+Smooth+User+Experiences" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,43 +20,20 @@
 
 ### 🚀 About Me
 
-I am a passionate **Software Engineer** specializing in **Mobile Application Development**. I love crafting high-performance, beautiful, and user-centric Android applications. Currently, I am expanding my skills in system architecture, advanced Kotlin design patterns, and cross-platform technologies to build scalable mobile solutions.
+I am a highly motivated **Mobile Application Developer & Software Engineer** dedicated to building premium native Android experiences. With deep knowledge of **Kotlin** and **Java**, I craft clean, scalable, and high-performance apps using modern architecture patterns (MVVM/MVI) and responsive UI designs.
 
-* 📱 **Currently Working On**: Native Android App Development (Kotlin & Java).
-* 📚 **Constantly Learning**: Advanced problem solving, clean architecture (MVVM), and backend API integration.
-* 💬 **Ask me about**: Mobile UI design, Android SDK, C/C++, Java, and MySQL.
-* ⚡ **Fun Fact**: I enjoy breaking down complex programming problems into clean, efficient, and readable code.
+- 📱 **Mobile Development Focus**: Custom UI components, Jetpack Compose, state management, and performance tuning.
+- ⚙️ **Core Engineering**: Writing clean code, optimization, and advanced data structure problem-solving.
+- 🎯 **Current Focus**: Native Android app performance, KMP (Kotlin Multiplatform), and clean UI/UX flows.
 
 ---
 
-### 🛠️ Languages & Tech Stack
+### 💻 Technologies & Toolkit
 
-#### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-#### 📱 Mobile App Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-</p>
-
-#### 🌐 Web Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### 🗄️ Database & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,android,androidstudio,c,cpp,html,css,mysql,git,github,py&perline=6&theme=dark" alt="Deepak's Skills" />
+  </a>
 </p>
 
 ---
@@ -72,6 +49,16 @@ I am a passionate **Software Engineer** specializing in **Mobile Application Dev
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepak-Choudharyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00e5ff&icon_color=bd93f9&text_color=e2e8f0" alt="Deepak's Top Languages" height="160px" />
 </p>
+
+---
+
+### 🎨 Development Vibe & Preferences
+
+* 💻 **Primary OS**: macOS / Linux
+* 🎨 **Theme Preference**: Tokyo Night / Cyberpunk Dark
+* 🛠️ **Editors**: Android Studio / VS Code
+* ☕ **Fuel**: Coffee & Problem Solving
+* ⚙️ **Architectures**: MVVM / Clean Architecture
 
 ---
 
