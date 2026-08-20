@@ -1,3 +1,4 @@
+<img width="1376" height="768" alt="banner" src="https://github.com/user-attachments/assets/2d77a75e-d214-4338-9e76-14b3972c26cf" />
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> I'm Deepak Choudhary</h1>
 
 
