@@ -3,6 +3,7 @@
   <img src="banner.jpg" alt="Deepak Choudhary Banner" width="100%" />
 </p>
 
+
 <!-- Typing Intro Status -->
 <p align="center">
   <a href="https://git.io/typing-svg">
