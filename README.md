@@ -26,6 +26,17 @@ I am a highly motivated **Mobile Application Developer & Software Engineer** ded
 - ⚙️ **Core Engineering**: Writing clean code, optimization, and advanced data structure problem-solving.
 - 🎯 **Current Focus**: Native Android app performance, KMP (Kotlin Multiplatform), and clean UI/UX flows.
 
+```kotlin
+// My Coding Motto
+fun developerVibe() {
+    while (learning) {
+        code()
+        optimize()
+        innovate()
+    }
+}
+```
+
 ---
 
 ### 💻 Technologies & Toolkit
@@ -41,13 +52,19 @@ I am a highly motivated **Mobile Application Developer & Software Engineer** ded
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Deepak-Choudharyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00e5ff&icon_color=bd93f9&text_color=e2e8f0" alt="Deepak's GitHub Stats" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Deepak-Choudharyy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&icon_color=00E5FF&text_color=FFFFFF" alt="Deepak's GitHub Stats" height="180px" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Deepak-Choudharyy&theme=tokyonight&hide_border=true&background=0f172a&ring=00e5ff&fire=bd93f9&currStreakNum=00e5ff&sideNums=e2e8f0&sideLabels=e2e8f0&dates=a0aec0&currStreakLabel=00e5ff" alt="Deepak's Streak Stats" height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=Deepak-Choudharyy&theme=radical&hide_border=true&background=0D1117&ring=00E5FF&fire=FF007F&currStreakNum=00E5FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakLabel=FF007F" alt="Deepak's Streak Stats" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepak-Choudharyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00e5ff&icon_color=bd93f9&text_color=e2e8f0" alt="Deepak's Top Languages" height="160px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepak-Choudharyy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&icon_color=00E5FF&text_color=FFFFFF" alt="Deepak's Top Languages" height="160px" />
+</p>
+
+<!-- Contribution Snake Game -->
+<h3 align="center">👾 My Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepak-Choudharyy/Deepak-Choudharyy/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 ---
