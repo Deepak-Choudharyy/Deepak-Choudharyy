@@ -77,11 +77,13 @@ fun developerVibe() {
 
 ### 🎨 Development Vibe & Preferences
 
-* 💻 **Primary OS**: macOS / Linux
-* 🎨 **Theme Preference**: Tokyo Night / Cyberpunk Dark
-* 🛠️ **Editors**: Android Studio / VS Code
-* ☕ **Fuel**: Coffee & Problem Solving
-* ⚙️ **Architectures**: MVVM / Clean Architecture
+| Specification | Preference |
+| :--- | :--- |
+| 💻 **Primary OS** | macOS / Linux |
+| 🎨 **Theme** | Tokyo Night / Cyberpunk Dark |
+| 🛠️ **Editors** | Android Studio / VS Code |
+| ☕ **Fuel** | Coffee & Problem Solving |
+| ⚙️ **Architectures** | MVVM / MVI / Clean Architecture |
 
 ---
 
@@ -91,15 +93,14 @@ fun developerVibe() {
   <a href="https://www.linkedin.com/in/deepak-choudhary-a9a5a51a9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:deepakkaler551@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Deepak-Choudharyy/count.svg" alt="Profile Views" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=Deepak-Choudharyy&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></p>
 
 ---
 
