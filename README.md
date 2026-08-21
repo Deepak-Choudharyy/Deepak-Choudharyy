@@ -53,13 +53,15 @@ fun developerVibe() {
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Deepak-Choudharyy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&icon_color=00E5FF&text_color=FFFFFF" alt="Deepak's GitHub Stats" height="180px" />
-  &nbsp;&nbsp;
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Deepak-Choudharyy&theme=radical&hide_border=true&background=0D1117&ring=00E5FF&fire=FF007F&currStreakNum=00E5FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakLabel=FF007F" alt="Deepak's Streak Stats" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepak-Choudharyy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&icon_color=00E5FF&text_color=FFFFFF" alt="Deepak's Top Languages" height="160px" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepak-Choudharyy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&icon_color=00E5FF&text_color=FFFFFF&langs_count=10" alt="Deepak's Top Languages" height="160px" />
 </p>
+
 
 <!-- Contribution Snake Game -->
 <h3 align="center">👾 My Contribution Snake</h3>
